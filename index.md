@@ -1,1 +1,1 @@
-# Minecraft 3DS Modding News, and only the news!
+# Minecraft 3DS modding news, and only the news!
