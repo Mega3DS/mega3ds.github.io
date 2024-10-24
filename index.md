@@ -14,6 +14,8 @@
 
 [Universal-Updater](https://universal-team.net/projects/universal-updater)
 
+[Minecraft 3DS Community Discord](https://discord.com/invite/xSrN6k965F)
+
 <br>
 
 # Tools
