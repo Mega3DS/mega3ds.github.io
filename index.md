@@ -2,10 +2,6 @@
 
 <br>
 
-_Mega3DS: Minecraft 3DS modding news, and only the news!_
-
-<br>
-
 # News
 
 ## Entry 1 (23-10-2024)
