@@ -4,6 +4,7 @@
 
 ## Entry 2 (24-10-2024)
 - Modder Anonymous941 has been working on a partial decompilation of code.bin over the past few days - he is planning to release the few fragments that he has decompiled as it has the potential to be helpful to the modding community. This will be the first publically avaliable decompilation of code.bin.
+  * Update: Anonymous941 has released the partial decomp on GitHub. It can be found [here.](https://github.com/MC3DS-Save-Research/code.bin)
 
 ## Entry 1 (23-10-2024)
 - Modder STBUniverse has shared that it is now possible to convert .json files to the .bjson format (with limitations,) which allows adding additional geometry to entity models. 
