@@ -12,10 +12,7 @@
 
 [Minecraft 3DS Community UniStore](https://github.com/Minecraft-3DS-Community/Minecraft-3ds-unistore)
 
-[Modernization MegaPack](https://github.com/wyndchyme/mc3ds-modern)
-
-- [MegaPack Standalone: Classic Textures](https://github.com/wyndchyme/mc3ds-classic-textures)
-- [MegaPack Standalone: Achievement Textures](https://github.com/wyndchyme/mc3ds-achievements)
+[Universal-Updater](https://universal-team.net/projects/universal-updater)
 
 <br>
 
