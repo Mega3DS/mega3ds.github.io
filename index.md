@@ -11,4 +11,4 @@
 
 # Legal
 
-_Mega3DS website created and maintained by wyndchyme. All rights reserved._
+_© 2024 wyndchyme / Mega3DS. All rights reserved. Powered by GitHub Pages._
