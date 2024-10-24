@@ -1,7 +1,5 @@
 [News](#news) | [Legal](#legal)
 
-<br>
-
 # News
 
 ## Entry 1 (23-10-2024)
