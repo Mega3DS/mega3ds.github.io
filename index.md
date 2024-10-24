@@ -1,5 +1,7 @@
 [News](#news) | [Legal](#legal)
 
+<br>
+
 _Mega3DS: Minecraft 3DS modding news, and only the news!_
 
 <br>
