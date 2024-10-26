@@ -14,7 +14,7 @@
   * Update: Anonymous941 has released the partial decomp on GitHub. It can be found [here.](https://github.com/MC3DS-Save-Research/code.bin)
 
 ## Entry 1 (23-10-2024)
-- Modder STBUniverse has shared that it is now possible to convert .json files to the .BJSON format (with limitations,) which allows adding additional geometry to entity models. 
+- Modder STBUniverse has shared that it is now possible to convert .JSON files to the .BJSON format (with limitations,) which allows adding additional geometry to entity models. 
 - The Mega3DS GitHub organization and news website has been created after a request by ethan0587 for a modding news website.
 
 <br>
