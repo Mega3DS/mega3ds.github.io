@@ -2,6 +2,9 @@
 
 # News
 
+## Entry 4 (26-10-2024)
+- Modder Cracko298 has said that version 0.8 of his [MC3DS-Model-Editor](https://github.com/Cracko298/MC3DS-Model-Editor) is planned to add "plugin support, themes and a few other bug fixes."
+
 ## Entry 3 (25-10-2024)
 - Modder STBUniverse has completed their rewrite of their [.JSON to .BJSON Python module,](https://github.com/STBrian/pyBjson) which makes models easier than ever!
 - Modder Cracko298 has updated his [MC3DS-Model-Editor](https://github.com/Cracko298/MC3DS-Model-Editor) to [version 0.7,](https://github.com/Cracko298/MC3DS-Model-Editor/releases/tag/0.7) which adds the aforementioned rewritten Python module by STBUniverse along with some other additions. 
