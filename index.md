@@ -4,7 +4,7 @@
 
 ## Entry 3 (25-10-2024)
 - Modder STBUniverse has completed their rewrite of their [.JSON to .BJSON Python module,](https://github.com/STBrian/pyBjson) which makes models easier than ever!
-- Modder Cracko298 has updated his [MC3DS-Model-Editor](https://github.com/Cracko298/MC3DS-Model-Editor) to version 0.7, which adds the aforementioned rewritten Python module by STBUniverse along with some other additions. 
+- Modder Cracko298 has updated his [MC3DS-Model-Editor](https://github.com/Cracko298/MC3DS-Model-Editor) to [version 0.7,](https://github.com/Cracko298/MC3DS-Model-Editor/releases/tag/0.7) which adds the aforementioned rewritten Python module by STBUniverse along with some other additions. 
 
 ## Entry 2 (24-10-2024)
 - Modder Anonymous941 has been working on a partial decompilation of code.bin over the past few days - he is planning to release the few fragments that he has decompiled as it has the potential to be helpful to the modding community. This will be the first publically avaliable decompilation of code.bin.
