@@ -2,6 +2,9 @@
 
 # News
 
+## Entry 5 (27-10-2024)
+- Modder Cracko298 has implemented pivots in his [MC3DS-Model-Editor,](https://github.com/Cracko298/MC3DS-Model-Editor) to be included in a forthcoming update.
+
 ## Entry 4 (26-10-2024)
 - Modder Cracko298 has said that version 0.8 of his [MC3DS-Model-Editor](https://github.com/Cracko298/MC3DS-Model-Editor) is planned to add "plugin support, themes and a few other bug fixes."
 
