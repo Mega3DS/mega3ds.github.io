@@ -4,7 +4,7 @@
 
 ## Entry 5 (27-10-2024)
 - Modder Cracko298 has implemented pivots in his [MC3DS-Model-Editor,](https://github.com/Cracko298/MC3DS-Model-Editor) to be included in a forthcoming update.
- * Update: Cracko298 has shown a demonstration of the new model editing capabilities by recreating the Creaking mob. 
+  * Update: Cracko298 has shown a demonstration of the new model editing capabilities by recreating the Creaking mob. 
 ![2019-03-27_04-52-14 156_top](https://github.com/user-attachments/assets/f9186204-d638-48e4-86e7-279ae8fff5e8)
 
 ## Entry 4 (26-10-2024)
