@@ -6,6 +6,7 @@
 - Modder Cracko298 has implemented pivots in his [MC3DS-Model-Editor,](https://github.com/Cracko298/MC3DS-Model-Editor) to be included in a forthcoming update.
   * Update: Cracko298 is now working on a [port of the Creaking mob,](https://github.com/Cracko298/mc3ds-creaking) as a demonstration of the new model editing capabilities.
 ![2019-03-27_04-52-14 156_top](https://github.com/user-attachments/assets/f9186204-d638-48e4-86e7-279ae8fff5e8)
+- [Modernization MegaPack](https://github.com/wyndchyme/mc3ds-modern) has updated to [version 1.5.5,](https://github.com/wyndchyme/mc3ds-modern/releases/tag/v1.5.5) which fixes a minor bug.
 
 ## Entry 4 (26-10-2024)
 - Modder Cracko298 has said that version 0.8 of his [MC3DS-Model-Editor](https://github.com/Cracko298/MC3DS-Model-Editor) is planned to add "plugin support, themes and a few other bug fixes."
