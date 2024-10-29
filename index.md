@@ -2,6 +2,13 @@
 
 # News
 
+## Entry 6 (28-10-2024)
+- Modder bomba.cat has demonstrated a modification to the game's shaders that makes the player's viewpoint appear as if they have been shrunk.
+
+    ![img](https://github.com/user-attachments/assets/5e5ec3a1-5150-49ca-95e8-9561963f984a)
+
+- Modder SeveringHams, leader of the Team Proteus modding group, is discussing transferring ownership of the [Team Proteus UniStore](https://github.com/team-proteus-mc/minecraft-3ds-unistore) to another maintainer, as part of a potential shift away from modding by Team Proteus.
+
 ## Entry 5 (27-10-2024)
 - Modder Cracko298 has implemented pivots in his [MC3DS-Model-Editor,](https://github.com/Cracko298/MC3DS-Model-Editor) to be included in a forthcoming update.
   * Update: Cracko298 is now working on a [port of the Creaking mob,](https://github.com/Cracko298/mc3ds-creaking) as a demonstration of the new model editing capabilities.
