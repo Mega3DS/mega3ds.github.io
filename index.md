@@ -2,6 +2,11 @@
 
 # News
 
+## Entry 7 (29-10-2024)
+- The [README](https://github.com/Minecraft-3DS-Community/Minecraft-3ds-unistore/blob/main/README.md) for the [Minecraft 3DS Community UniStore](https://github.com/Minecraft-3DS-Community/Minecraft-3ds-unistore?tab=readme-ov-file) has been redone, with a brand new logo created by wyndchyme, as shown below:
+  
+  ![logo](https://github.com/user-attachments/assets/d0ac66c4-2924-4894-96f1-7bb0b023b664)
+
 ## Entry 6 (28-10-2024)
 - Modder bomba.cat has demonstrated a modification to the game's shaders that makes the player's viewpoint appear as if they have been shrunk.
 
