@@ -3,7 +3,7 @@
 # News
 
 ## Entry 7 (29-10-2024)
-- SeveringHams has transferred ownership of his [Team Proteus UniStore](https://github.com/team-proteus-mc/minecraft-3ds-unistore) to wyndchyme in anticipation of an upcoming merge with the [Community UniStore.](https://github.com/Minecraft-3DS-Community/Minecraft-3ds-unistore)
+- SeveringHams has transferred ownership of his [Team Proteus UniStore](https://github.com/team-proteus-mc/minecraft-3ds-unistore) to wyndchyme.
 - Modder bomba.cat has continued to investigate the game's shaders and has potentially uncovered new ways of optimizing the game. He has also developed a sort of x-ray shader specifically for entities, including block entities like chests.
   ![xray](https://github.com/user-attachments/assets/45f0597e-fdbe-430d-a95b-74182f8a9403)
 - The [README](https://github.com/Minecraft-3DS-Community/Minecraft-3ds-unistore/blob/main/README.md) for the [Minecraft 3DS Community UniStore](https://github.com/Minecraft-3DS-Community/Minecraft-3ds-unistore?tab=readme-ov-file) has been redone, with a brand new logo created by wyndchyme, as shown below:
