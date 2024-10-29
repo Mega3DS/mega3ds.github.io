@@ -7,6 +7,7 @@
 
     ![img](https://github.com/user-attachments/assets/5e5ec3a1-5150-49ca-95e8-9561963f984a)
 
+- [Community UniStore](https://github.com/Minecraft-3DS-Community/Minecraft-3ds-unistore) Update: [Modernization MegaPack](https://github.com/wyndchyme/mc3ds-modern) [version 1.5.5](https://github.com/wyndchyme/mc3ds-modern/releases/tag/v1.5.5) has been added and [MegaPack Standalone: Classic Textures](https://github.com/wyndchyme/mc3ds-classic-textures) [version 1.0.3](https://github.com/wyndchyme/mc3ds-classic-textures/releases/tag/v1.0.3) has been added.
 - Modder SeveringHams, leader of the Team Proteus modding group, is discussing transferring ownership of the [Team Proteus UniStore](https://github.com/team-proteus-mc/minecraft-3ds-unistore) to another maintainer, as part of a potential shift away from modding by Team Proteus.
 
 ## Entry 5 (27-10-2024)
