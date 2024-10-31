@@ -2,6 +2,10 @@
 
 # News
 
+## Entry 8 (31-10-2024)
+- Modder Nawrek has completed his port of the [Halloween Mash-Up Pack](https://github.com/nawrek/mc3ds-halloween-port) and published [version 1.0](https://github.com/nawrek/mc3ds-halloween-port/releases/tag/1.0.0) on GitHub and on the [Community UniStore!](https://github.com/Minecraft-3DS-Community/Minecraft-3ds-unistore)
+- Migration of the [Team Proteus UniStore's](https://github.com/team-proteus-mc/minecraft-3ds-unistore) content to the [Community UniStore](https://github.com/Minecraft-3DS-Community/Minecraft-3ds-unistore) has been cleared to proceed by Nawrek, and should begin sometime soon.
+
 ## Entry 7 (29-10-2024)
 - SeveringHams has transferred ownership of his [Team Proteus UniStore](https://github.com/team-proteus-mc/minecraft-3ds-unistore) to wyndchyme.
 - Modder bomba.cat has continued to investigate the game's shaders and has potentially uncovered new ways of optimizing the game. He has also developed a sort of x-ray shader specifically for entities, including block entities like chests.
