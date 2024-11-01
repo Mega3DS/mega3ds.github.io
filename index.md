@@ -5,6 +5,7 @@
 ## Entry 8 (31-10-2024)
 - Modder Nawrek has completed his port of the [Halloween Mash-Up Pack](https://github.com/nawrek/mc3ds-halloween-port) and published [version 1.0](https://github.com/nawrek/mc3ds-halloween-port/releases/tag/1.0.0) on GitHub and on the [Community UniStore!](https://github.com/Minecraft-3DS-Community/Minecraft-3ds-unistore)
 - Migration of the [Team Proteus UniStore's](https://github.com/team-proteus-mc/minecraft-3ds-unistore) content to the [Community UniStore](https://github.com/Minecraft-3DS-Community/Minecraft-3ds-unistore) has been cleared to proceed by Nawrek, and should begin sometime soon.
+- [Modernization MegaPack](https://github.com/wyndchyme/mc3ds-modern) has updated to [version 1.5.6,](https://github.com/wyndchyme/mc3ds-modern/releases/tag/v1.5.6) [MegaPack Standalone: Classic Textures](https://github.com/wyndchyme/mc3ds-classic-textures) has updated to [version 1.0.4,](https://github.com/wyndchyme/mc3ds-classic-textures/releases/tag/v1.0.4) and [MegaPack Standalone: Achievement Textures](https://github.com/wyndchyme/mc3ds-achievements) has updated to [version 1.0.1.](https://github.com/wyndchyme/mc3ds-achievements/releases/tag/1.0.1)
 
 ## Entry 7 (29-10-2024)
 - SeveringHams has transferred ownership of his [Team Proteus UniStore](https://github.com/team-proteus-mc/minecraft-3ds-unistore) to wyndchyme.
