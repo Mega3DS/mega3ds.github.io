@@ -2,6 +2,9 @@
 
 # News
 
+## Entry 9 (1-11-2024)
+- Modder susbaconhairman has published the [first release](https://github.com/susbaconhairman/mc-adventure-time-mash-up-3ds-port/releases/tag/1) of his port of the [Adventure Time Mash-Up Pack!](https://github.com/susbaconhairman/mc-adventure-time-mash-up-3ds-port)
+
 ## Entry 8 (31-10-2024)
 - Modder Nawrek has completed his port of the [Halloween Mash-Up Pack](https://github.com/nawrek/mc3ds-halloween-port) and published [version 1.0](https://github.com/nawrek/mc3ds-halloween-port/releases/tag/1.0.0) on GitHub and on the [Community UniStore!](https://github.com/Minecraft-3DS-Community/Minecraft-3ds-unistore)
 - Migration of the [Team Proteus UniStore's](https://github.com/team-proteus-mc/minecraft-3ds-unistore) content to the [Community UniStore](https://github.com/Minecraft-3DS-Community/Minecraft-3ds-unistore) has been cleared to proceed by Nawrek, and should begin sometime soon.
