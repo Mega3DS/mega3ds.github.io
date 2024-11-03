@@ -2,6 +2,11 @@
 
 # News
 
+## Entry 10 (2-11-2024)
+- Newcomer Mellow is working on an 8x8 texture pack!
+- susbaconhairman's [Adventure Time Mash-Up Pack](https://github.com/susbaconhairman/mc-adventure-time-mash-up-3ds-port) has been added to the [Team Proteus Archive UniStore.](https://github.com/wyndchyme/minecraft-3ds-unistore)
+- The [Community UniStore](https://github.com/Minecraft-3DS-Community/Minecraft-3ds-unistore) has been updated to include updated versions of MegaPack projects and fix issues pertaining to their installers.
+
 ## Entry 9 (1-11-2024)
 - Modder susbaconhairman has published the [first release](https://github.com/susbaconhairman/mc-adventure-time-mash-up-3ds-port/releases/tag/1) of his port of the [Adventure Time Mash-Up Pack!](https://github.com/susbaconhairman/mc-adventure-time-mash-up-3ds-port)
 
