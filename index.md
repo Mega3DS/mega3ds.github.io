@@ -2,6 +2,10 @@
 
 # News
 
+## Entry 11 (5-11-2024)
+- Modder Cracko298 believes he has found a way to add custom entities without the requirement of a decompiled code.bin.
+- Cracko298 has also made significant progress in developing his [MC3DS-WorldManager](https://github.com/Cracko298/MC3DS-WorldManager) CIA tool. 
+
 ## Entry 10 (2-11-2024)
 - Newcomer Mellow is working on an 8x8 texture pack!
 - susbaconhairman's [Adventure Time Mash-Up Pack](https://github.com/susbaconhairman/mc-adventure-time-mash-up-3ds-port) has been added to the [Team Proteus Archive UniStore.](https://github.com/wyndchyme/minecraft-3ds-unistore)
