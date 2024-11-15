@@ -2,6 +2,11 @@
 
 # News
 
+## Entry 12 (14-11-2024
+- Modder Cracko298 has shared images of a port of the Warden!
+
+  ![image](https://github.com/user-attachments/assets/9d16b6a5-6062-4068-a23f-599ef0fe164f)
+
 ## Entry 11 (5-11-2024)
 - Modder Cracko298 believes he has found a way to add custom entities without the requirement of a decompiled code.bin.
 - Cracko298 has also made significant progress in developing his [MC3DS-WorldManager](https://github.com/Cracko298/MC3DS-WorldManager) CIA tool. 
