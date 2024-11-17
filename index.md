@@ -3,7 +3,7 @@
 # News
 
 ## Entry 13 (16-11-2024)
-- A new Minecraft 3DS Community server is in the works, with a server vote having selected Java Edition 1.21 as the version that the server is planned to be on.
+- A new Minecraft 3DS Community multiplayer Java Edition server is in the works, with a server vote having selected Java Edition 1.21 as the version that the server is planned to be on.
 
 ## Entry 12 (14-11-2024)
 - Modder Cracko298 has shared images of a port of the Warden!
