@@ -15,7 +15,7 @@
 
 <summary>Click to show/hide</summary>
 
-   [image](https://github.com/user-attachments/assets/9d16b6a5-6062-4068-a23f-599ef0fe164f)
+   https://github.com/user-attachments/assets/9d16b6a5-6062-4068-a23f-599ef0fe164f
    
 </details>
  
@@ -44,7 +44,7 @@
 
   <summary>Click to show/hide</summary>
   
-  [xray](https://github.com/user-attachments/assets/45f0597e-fdbe-430d-a95b-74182f8a9403)
+  https://github.com/user-attachments/assets/45f0597e-fdbe-430d-a95b-74182f8a9403
  
   </details>
  
@@ -54,7 +54,7 @@
 
   <summary>Click to show/hide</summary>
   
-  [logo](https://github.com/user-attachments/assets/d0ac66c4-2924-4894-96f1-7bb0b023b664)
+  https://github.com/user-attachments/assets/d0ac66c4-2924-4894-96f1-7bb0b023b664
 
   </details>
  
@@ -65,7 +65,7 @@
 
 <summary>Click to show/hide</summary>
 
- [img](https://github.com/user-attachments/assets/5e5ec3a1-5150-49ca-95e8-9561963f984a)
+ https://github.com/user-attachments/assets/5e5ec3a1-5150-49ca-95e8-9561963f984a
   
 </details>
    
@@ -80,7 +80,7 @@
 
 <summary>Click to show/hide</summary>
 
-  [image](https://github.com/user-attachments/assets/f9186204-d638-48e4-86e7-279ae8fff5e8)
+  https://github.com/user-attachments/assets/f9186204-d638-48e4-86e7-279ae8fff5e8
   
 </details>
 
