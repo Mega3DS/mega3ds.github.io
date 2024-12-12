@@ -2,6 +2,9 @@
 
 # News
 
+## Entry 14 (12-12-2024)
+- Modder Cracko298 has released [version 0.2](https://github.com/Cracko298/MC3DS-AnimationSuite/releases/tag/v0.2) of his new project, [MC3DS-AnimationSuite.](https://github.com/Cracko298/MC3DS-AnimationSuite)
+
 ## Entry 13 (16-11-2024)
 - A new Minecraft 3DS Community multiplayer Java Edition server is in the works, with a server vote having selected Java Edition 1.21 as the version that the server is planned to be on.
 
@@ -96,4 +99,4 @@
 
 # Legal
 
-_© 2024 wyndchyme / Mega3DS. All rights reserved. Powered by GitHub Pages._
+_© 2024-2025 wyndchyme / Mega3DS. All rights reserved. Powered by GitHub Pages._
