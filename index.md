@@ -11,8 +11,14 @@
 ## Entry 12 (14-11-2024)
 - Modder Cracko298 has shared images of a port of the Warden!
 
-  ![image](https://github.com/user-attachments/assets/9d16b6a5-6062-4068-a23f-599ef0fe164f)
+<details>
 
+<summary>Click to show/hide</summary>
+
+   ![image](https://github.com/user-attachments/assets/9d16b6a5-6062-4068-a23f-599ef0fe164f)
+   
+</details>
+ 
 ## Entry 11 (5-11-2024)
 - Modder Cracko298 believes he has found a way to add custom entities without the requirement of a decompiled code.bin.
 - Cracko298 has also made significant progress in developing his [MC3DS-WorldManager](https://github.com/Cracko298/MC3DS-WorldManager) CIA tool. 
@@ -33,23 +39,51 @@
 ## Entry 7 (29-10-2024)
 - SeveringHams has transferred ownership of his [Team Proteus UniStore](https://github.com/team-proteus-mc/minecraft-3ds-unistore) to wyndchyme.
 - Modder bomba.cat has continued to investigate the game's shaders and has potentially uncovered new ways of optimizing the game. He has also developed a sort of x-ray shader specifically for entities, including block entities like chests.
+
+  <details>
+
+  <summary>Click to show/hide</summary>
+  
   ![xray](https://github.com/user-attachments/assets/45f0597e-fdbe-430d-a95b-74182f8a9403)
+ 
+  </details>
+ 
 - The [README](https://github.com/Minecraft-3DS-Community/Minecraft-3ds-unistore/blob/main/README.md) for the [Minecraft 3DS Community UniStore](https://github.com/Minecraft-3DS-Community/Minecraft-3ds-unistore?tab=readme-ov-file) has been redone, with a brand new logo created by wyndchyme, as shown below:
+
+  <details>
+
+  <summary>Click to show/hide</summary>
   
   ![logo](https://github.com/user-attachments/assets/d0ac66c4-2924-4894-96f1-7bb0b023b664)
 
+  </details>
+ 
 ## Entry 6 (28-10-2024)
 - Modder bomba.cat has demonstrated a modification to the game's shaders that makes the player's viewpoint appear as if they have been shrunk.
 
-    ![img](https://github.com/user-attachments/assets/5e5ec3a1-5150-49ca-95e8-9561963f984a)
+<details>
 
+<summary>Click to show/hide</summary>
+
+ ![img](https://github.com/user-attachments/assets/5e5ec3a1-5150-49ca-95e8-9561963f984a)
+  
+</details>
+   
 - [Community UniStore](https://github.com/Minecraft-3DS-Community/Minecraft-3ds-unistore) update: [Modernization MegaPack](https://github.com/wyndchyme/mc3ds-modern) [version 1.5.5](https://github.com/wyndchyme/mc3ds-modern/releases/tag/v1.5.5) has been added and [MegaPack Standalone: Classic Textures](https://github.com/wyndchyme/mc3ds-classic-textures) [version 1.0.3](https://github.com/wyndchyme/mc3ds-classic-textures/releases/tag/v1.0.3) has been added.
 - Modder SeveringHams, leader of the [Team Proteus](https://github.com/team-proteus-mc) modding group, is discussing transferring ownership of the [Team Proteus UniStore](https://github.com/team-proteus-mc/minecraft-3ds-unistore) to another maintainer, as part of a potential shift away from modding by Team Proteus.
 
 ## Entry 5 (27-10-2024)
 - Modder Cracko298 has implemented pivots in his [MC3DS-Model-Editor,](https://github.com/Cracko298/MC3DS-Model-Editor) to be included in a forthcoming update.
   * Update: Cracko298 is now working on a [port of the Creaking mob,](https://github.com/Cracko298/mc3ds-creaking) as a demonstration of the new model editing capabilities.
-![2019-03-27_04-52-14 156_top](https://github.com/user-attachments/assets/f9186204-d638-48e4-86e7-279ae8fff5e8)
+  
+<details>
+
+<summary>Click to show/hide</summary>
+
+  ![2019-03-27_04-52-14 156_top](https://github.com/user-attachments/assets/f9186204-d638-48e4-86e7-279ae8fff5e8)
+  
+</details>
+
 - [Modernization MegaPack](https://github.com/wyndchyme/mc3ds-modern) has updated to [version 1.5.5,](https://github.com/wyndchyme/mc3ds-modern/releases/tag/v1.5.5) which fixes a minor bug.
 
 ## Entry 4 (26-10-2024)
