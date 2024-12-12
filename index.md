@@ -129,6 +129,8 @@
 
 [MC3DS-SplashReplacer](https://github.com/Cracko298/MC3DS-SplashReplacer)
 
+[MC3DS–AnimationSuite](https://github.com/Cracko298/MC3DS-AnimationSuite)
+
 <br>
 
 # Legal
