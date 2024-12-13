@@ -8,6 +8,10 @@
   background-color: white;
   color: black;
       }
+      .light-mode {
+         background-color: white;
+         color: black;
+      }
       .dark-mode {
   background-color: black;
   color: white;
@@ -52,12 +56,30 @@ a:active {
    </style>
 </head>
 <darkbutton>
-<button onclick="myFunction()">Toggle dark mode</button>
+<button onclick="myFunction()"; id="theme-toggle">Toggle dark mode</button>
 
 <script>
 function myFunction() {
    var element = document.body;
    element.classList.toggle("dark-mode");
+   const toggleButton = document.getElementById('theme-toggle');
+const body = document.body;
+   const savedTheme = localStorage.getItem('theme');
+   if (savedTheme) {
+  body.classList.add(savedTheme);
+} else {
+  body.classList.add('light-mode');
+}
+function toggleTheme() {
+  if (body.classList.contains('light-mode')) {
+    body.classList.replace('light-mode', 'dark-mode');
+    localStorage.setItem('theme', 'dark-mode');
+  } else {
+    body.classList.replace('dark-mode', 'light-mode');
+    localStorage.setItem('theme', 'light-mode');
+  }
+}
+   toggleButton.addEventListener('click', toggleTheme);
 }
 </script>
 </darkbutton>
