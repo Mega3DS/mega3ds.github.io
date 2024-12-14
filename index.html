@@ -1,62 +1,81 @@
 <head>
-   <title>Mega3DS</title>
-   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
-   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <style>
-      body {
-         font-family: 'Mona Sans', sans-serif;
-         background-color: white;
-         color: black;
-         transition: 0.5s;
-      }
-      .dark-mode {
-         background-color: black;
-         color: white;
-         transition: 0.5s;
-      }
-      darkbutton {
-    padding: 30px;
-    display:block;
-    color: black;
-    text-align:center;
-    position: fixed;
-    top: 10px;
-    right: 10px;
-      }
-      a:link {
+    <title>wyndchyme</title>
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preload" as="image" href="https://raw.githubusercontent.com/wyndchyme/wyndchyme.github.io/refs/heads/main/icons/lightlamp2.png">
+    <link href="https://fonts.googleapis.com/css2?family=Jersey+10&display=swap" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: 'Jersey 10', sans-serif;
+            background-color: white;
+            color: black;
+            transition: 0.5s;
+            font-size: 1.5rem;
+        }
+        .dark-mode {
+            background-color: black;
+            color: white;
+            transition: 0.5s;
+        }
+        lamp-button {
+            padding: 10px;
+            display: block;
+            color: black;
+            text-align: center;
+            position: fixed;
+            top: 5px;
+            right: 10px;
+        }
+        .image-hover {
+    width: 28px;
+    height: 28px;
+    background-image: url(https://raw.githubusercontent.com/wyndchyme/wyndchyme.github.io/refs/heads/main/icons/lightlamp.png);
+    background-size: cover;
+    transition: background-image 0.2s
+        }
+        .image-hover:hover {
+    background-image: url(https://raw.githubusercontent.com/wyndchyme/wyndchyme.github.io/refs/heads/main/icons/lightlamp2.png);
+        }
+        a:link {
   color: skyblue;
   background-color: transparent;
   text-decoration: none;
-}
-
-a:visited {
+        }
+        a:visited {
   color: skyblue;
   background-color: transparent;
   text-decoration: none;
-}
-
-a:hover {
-  color: turquoise;
+        }
+        a:hover {
+  color: teal;
   background-color: transparent;
-  text-decoration: underline;
-}
-
-a:active {
+  text-decoration: none;
+        }
+        a:active {
   color: skyblue;
   background-color: transparent;
-  text-decoration: underline;
+  text-decoration: none;
+        }
+        footer {
+  text-align: center;
+  background-color: #f1f1f1;
+  padding: 10px 0;
+  font-size: 14px;
+  position: relative;
+  width: 100%;
+            color: black;
 }
-      @media screen and (max-width: 600px) {
-  body {
-    font-size: 1rem;
-  }
-      }
-   </style>
+@media (max-width: 450px) {
+lamp-button {
+    transform: translateY(75px);
+}
+}
+</style>
 </head>
-<darkbutton>
-<button onclick="myFunction()"; style="background-color:";><img src="https://raw.githubusercontent.com/Mega3DS/mega3ds.github.io/refs/heads/main/icons/lightlamp.png"; width=28></button>
-
-
+<lamp-button>
+<button onclick="myFunction()";><div class="image-hover"></div></button>
 <script>
 // Load the saved theme from localStorage
 document.addEventListener("DOMContentLoaded", () => {
@@ -78,12 +97,18 @@ function myFunction() {
     }
 }
 </script>
-</darkbutton>
-<body>
-<h1 id="mega3ds">Mega3DS</h1>
-<p><a href="#news">News</a> | <a href="#links">Links</a> | <a href="#tools">Tools</a> | <a href="#legal">Legal</a></p>
-
+</lamp-button>
+<div style="text-align: center; font-size: 3rem; font-family: 'Jersey 10'; background-color: skyblue; color: white"><img src= https://raw.githubusercontent.com/wyndchyme/wyndchyme.github.io/refs/heads/main/icons/faviconalt.png> <a href="https://wyndchyme.github.io/"; style="color: white">wyndchyme</a></div>
+<div style="text-align: center; font-size: 1.25rem; font-family: 'Jersey 10'">(sometimes i make things)</div>
+<p></p>
+<p style="font-size: 2rem; text-align: center;"><img src ="https://raw.githubusercontent.com/wyndchyme/wyndchyme.github.io/refs/heads/main/icons/consoles/iconwii.png"; style="position: relative; bottom: -1px"></img> <a href="https://wyndchyme.github.io/consoles/wii/">Wii</a> &#8226 <img src ="https://raw.githubusercontent.com/wyndchyme/wyndchyme.github.io/refs/heads/main/icons/consoles/icon3ds.png"; style="position: relative; bottom: -1px"></img> <a href="https://wyndchyme.github.io/consoles/3ds/">3DS</a> &#8226 <img src ="https://raw.githubusercontent.com/wyndchyme/wyndchyme.github.io/refs/heads/main/icons/other/crateicon.png"; style="position:relative; bottom: -2px"> <a href="https://wyndchyme.github.io/other/">Other</a></p>
+<p style="line-height: 0"></p>
+<p style="margin-left: 10%; margin-right: 10%; text-indent: 4em">
 <h1 id="news">News</h1>
+<h2 id="entry-15-12-12-2024-">Entry 15 (12-13-2024)</h2>
+<ul>
+<li>Mega3DS has moved! Minecraft 3DS modding news, tools, and other resources can now be found on <a href="https://wyndchyme.github.io/">wyndchyme.github.io</a>.</li>
+</ul>
 <h2 id="entry-14-12-12-2024-">Entry 14 (12-12-2024)</h2>
 <ul>
 <li>Modder Cracko298 has released <a href="https://github.com/Cracko298/MC3DS-AnimationSuite/releases/tag/v0.2">version 0.2</a> of his new project, <a href="https://github.com/Cracko298/MC3DS-AnimationSuite">MC3DS-AnimationSuite.</a></li>
@@ -92,20 +117,7 @@ function myFunction() {
 <ul>
 <li>A new Minecraft 3DS Community multiplayer Java Edition server is in the works, with a server vote having selected Java Edition 1.21 as the version that the server is planned to be on.</li>
 </ul>
-<h2 id="entry-12-14-11-2024-">Entry 12 (14-11-2024)</h2>
-<ul>
-<li><p></p>Modder Cracko298 has shared images of a port of the Warden!</p></li>
-<details>
-
-<summary>Click to show/hide</summary>
-
-   <img src="https://github.com/user-attachments/assets/9d16b6a5-6062-4068-a23f-599ef0fe164f">
-
-</details>
-
-</ul>
-
-<h2 id="entry-11-5-11-2024-">Entry 11 (5-11-2024)</h2>
+    <h2 id="entry-11-5-11-2024-">Entry 11 (5-11-2024)</h2>
 <ul>
 <li>Modder Cracko298 believes he has found a way to add custom entities without the requirement of a decompiled code.bin.</li>
 <li>Cracko298 has also made significant progress in developing his <a href="https://github.com/Cracko298/MC3DS-WorldManager">MC3DS-WorldManager</a> CIA tool. </li>
@@ -202,23 +214,6 @@ function myFunction() {
 <ul>
 <li>Modder STBUniverse has shared that it is now possible to convert JSON files to the BJSON format (with limitations,) which allows adding additional geometry to entity models. </li>
 <li>The Mega3DS GitHub organization and news website has been created after a request by ethan0587 for a modding news website.</li>
-</ul>
-<p><br></p>
-<h1 id="links">Links</h1>
-<p><a href="https://github.com/Minecraft-3DS-Community/Minecraft-3ds-unistore">Minecraft 3DS Community UniStore</a></p>
-<p><a href="https://universal-team.net/projects/universal-updater">Universal-Updater</a></p>
-<p><a href="https://discord.com/invite/xSrN6k965F">Minecraft 3DS Community Discord</a></p>
-<p><br></p>
-<h1 id="tools">Tools</h1>
-<p><a href="https://gbatemp.net/threads/wip-ohana3ds-tool.392576/">Ohana3DS Texture Viewer/Replacer</a></p>
-<p><a href="https://github.com/STBrian/MC3DS-Texture-Maker">MC3DS-Texture-Maker</a></p>
-<p><a href="https://github.com/STBrian/MC3DS-BJSON-Editor">MC3DS-BJSON-Editor</a></p>
-<p><a href="https://github.com/STBrian/MC3DS-Blang-Editor">MC3DS-Blang-Editor</a></p>
-<p><a href="https://github.com/Cracko298/CombinedAudioTool">CombinedAudioTool</a></p>
-<p><a href="https://github.com/Cracko298/MC3DS-Model-Editor">MC3DS-Model-Editor</a></p>
-<p><a href="https://github.com/Cracko298/MC3DS-SplashReplacer">MC3DS-SplashReplacer</a></p>
-<p><a href="https://github.com/Cracko298/MC3DS-AnimationSuite">MC3DS–AnimationSuite</a></p>
-<p><br></p>
-<h1 id="legal">Legal</h1>
-<p><em>© 2024-2025 wyndchyme / Mega3DS. All rights reserved. Powered by GitHub Pages.</em></p>
+</ul></p>
+<footer>© 2024-2025 wyndchyme. All Rights Reserved.</footer>
 </body>
